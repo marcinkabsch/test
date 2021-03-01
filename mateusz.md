@@ -6,5 +6,4 @@
 
 # taki fajny ten markup
 
-# commit idziegsfgsgsfggs
-fgvsvfdg
+# commit idzie test123 super kod
